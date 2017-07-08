@@ -1,0 +1,7 @@
+# global
+User-agent: *
+# Host: https://.....
+Disallow: /admin
+User-agent: Yandex
+Disallow: /admin
+# Sitemap: https://.....
